@@ -44,6 +44,8 @@
 
 Transform Traditional Project Management into an AI-Powered Collaborative Workspace.
 
+🔗 Live Application: https://saa-s-ai-project-management-tool.vercel.app
+
 SaaS AI Project Management Tool is a modern, enterprise-ready project management platform that combines collaborative workspaces, intelligent task management, secure role-based access control, and AI-powered productivity tools into a unified SaaS application.
 
 The platform goes beyond conventional Kanban software by integrating Large Language Models directly into project workflows. From intelligent task creation and contextual project insights to predictive workload analysis, the application demonstrates how Artificial Intelligence can improve team collaboration without disrupting existing workflows.
